@@ -1,0 +1,45 @@
+p
+  {
+  margin: 0px;
+  padding-left: 6px;
+  padding-right: 6px;
+	text-align:left;
+  } 
+	  
+#form
+  {
+  float:left;
+  width:470px;
+  margin:20px 0px 0px 80px;
+  }
+	
+#frmad
+  {
+  float:right;
+  width:330px;
+  margin-top:20px;
+  }
+#frmad p
+  {
+  text-align:center;
+  font-size:13px;
+  }
+.bld
+  {
+  font-weight:bold;
+  }
+	
+input.sub
+  {
+  background-color:#495c6b;
+  color:#ffffff;
+  }
+textarea.txt
+  {
+  background-color:#F3F4FF;
+  }
+input.txt
+  {
+  background-color:#F3F4FF;
+  font-size:11px;
+  }
